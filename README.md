@@ -27,5 +27,5 @@
 
 1. Склонируй репозиторий  
    ```bash
-   git clone https://github.com/klimyalta/crypto-trading-bot.git
+   git clone https://github.com/klimyalta/crypto-trading-bot-.git
    cd crypto-trading-bot
